@@ -33,10 +33,6 @@ section {
     font-family: 'Source Sans Pro', sans-serif;
   }
   
-  div {
-  /*   border: 1px solid grey; */
-  }
-  
   /* Utility Classes */
   
   .padded   { padding: 5%; }
@@ -130,10 +126,10 @@ section {
       padding: 5%;
     }
   
-    .latest-news .card {
+    /* .latest-news .card { */
       /* margin: 0.2rem; */
       /* margin-right: 5%; */
-    }
+  
     
     /* .latest-news .card:first-child {
       margin-left: 1.5rem;
